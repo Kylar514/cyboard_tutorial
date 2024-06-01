@@ -100,6 +100,7 @@
    - To quickly dry the glue and prevent the case from deforming, place it in the freezer after hot gluing (optional, but 30-60 seconds will speed up the process).
    - Putting hot glue in between the rows and columns can help with sound and holding the PCB in place. The backplate holds the PCB, so this step is optional and mainly for enthusiasts who want that extra thock.
    - You can also add painter's tape or electrical tape for maximum thockage.
+   - If you decide to hot glue, the backplate may have trouble fitting. Especially around the thumb cluster. I cut and sanded parts of the backplate to prevent this, so the bottom plate fits.
 
 ![Switches in keyboard](images/switches_for_pcb.jpg)
 ![example 1 of post](images/example1_post.jpg)
@@ -126,11 +127,15 @@
 ![Difficult Socket](images/difficult_socket.jpg)
 ![Tape ribbon out of the way](images/taped_ribbon.jpg)
 ![Tweezer Technique](images/tweezer_technique.jpg)
+![Tape on backplate](images/tape_backplate.jpg)
+![Tape & Foam](images/tape_foam.jpg)
 
 **Note:**
 
 - Cover the jumper pads with tape or glue, especially if you add tape or foam to the inside of the case, as this can cause the ribbon to bend. If you accidentally connect those jumpers, your LEDs can stop working.
 - To prevent hard creases in the ribbon cable, place the bend of the cable down into the holes of the backplate where the PCB and sockets are, then tape over it. This way, you don't have a hard crease, and you have a flat surface on your backplate, allowing for more foam and tape for sound dampening.
+- You can also add a lot of tape and foam here for more thock, as seen in the pictures above.
+- Adding tape to hold the ribbon in place up against the side of the case is not a bad idea either, especially if its has foam and tape, this way nothing risks cutting the cable.
 
 ## Step 5: Final Assembly and Programming
 
