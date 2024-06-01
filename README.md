@@ -1,6 +1,9 @@
 # Cyboard Keyboard Assembly Guide
 
-Follow these steps carefully to assemble your Cyboard keyboard from start to finish. Use the accompanying images for visual assistance.
+This is a very loose guide for assembling the cyboard keyboards.
+check [Cyboard](https://www.cyboard.digital) for official keyboards and merch
+Check the [Discord](https://discord.com/invite/4hf8uEnrfj) for further support
+no affiliation, just a guy who built a keyboard from cyboard, and i felt like making a loose simple guide.
 
 ## Materials Needed
 
