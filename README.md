@@ -149,7 +149,8 @@ no affiliation, just a guy who built a keyboard from cyboard, and i felt like ma
 
 3. **Using Programming Tools:**
    - Copy the files to the board as if it’s a flash drive.
-   - Alternatively you can use the QMK CLI tool for flashing. Refer to the QMK documentation.
-   - For ZMK, follow the ZMK documentation for programming Nice!Nanos.
+   - Vial QMK is a option as well [Vial-QMK-Github](https://github.com/Cyboard-DigitalTailor/vial-qmk)
+   - Alternatively you can use the QMK CLI tool for flashing. Refer to the QMK documentation. [QMK RP2040 documentation](https://github.com/qmk/qmk_firmware/blob/master/docs/platformdev_rp2040.md)
+   - For ZMK, follow the ZMK documentation for programming Nice!Nanos. [Cyboard ZMK github](https://github.com/Cyboard-DigitalTailor/zmk-user-config-template)
 
 ![Final Assembly](images/final_assembly.jpg)
